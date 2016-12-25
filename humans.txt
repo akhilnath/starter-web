@@ -6,6 +6,7 @@ guru
     <name> -- <role> -- <twitter>
 
 # THANKS
+all students
 
     <name>Jason taylor
 
