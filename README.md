@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work together
 
 ## Purpose
+extra changes
 
 As stated above 
 DO IT
