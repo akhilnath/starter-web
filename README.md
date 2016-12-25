@@ -10,4 +10,4 @@ Sample website with plenty of files for demos
 
 ##Deployement
 
-##How To Contribute
+namaste andhra
