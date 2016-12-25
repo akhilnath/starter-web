@@ -11,3 +11,5 @@ Sample website with plenty of files for demos
 ##Deployement
 
 namaste andhra
+
+copyright notice
