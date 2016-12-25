@@ -15,3 +15,4 @@ please leave review if u like the course
 
     HTML5, CSS3
     jQuery, Modernizr
+	wow amazing tech
